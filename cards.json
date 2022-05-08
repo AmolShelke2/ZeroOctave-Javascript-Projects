@@ -725,6 +725,12 @@
         "name":"YouTube Clone",
         "image":"assets/Images/YouTubeClone/YouTubeClone.png",
         "link":"Public/YouTube_Clone/index.html"
+    }, 
+
+    {
+       "name":"Linkedin UI",
+       "image":"assets/Images/Linkedin.png",
+       "link":"Public/linkedin.html"
     }
     
 
